@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/10/24 13:16:57。
+     1>项目“D:\工程\C++工程\Huffman_maz\Huffman_maz\Unhuff_file\Unhuff_file.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>源.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(279): warning C4101: “head”: 未引用的局部变量
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\工程\C++工程\Huffman_maz\Huffman_maz\Release\Unhuff_file.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\工程\C++工程\Huffman_maz\Huffman_maz\Release\Unhuff_file.pdb" /HEAP:"512000000","512000000" /STACK:"512000000","512000000" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\工程\C++工程\Huffman_maz\Huffman_maz\Release\Unhuff_file.lib" /MACHINE:X86 /SAFESEH "Release\源.obj"
+         正在生成代码
+         已完成代码的生成
+         Unhuff_file.vcxproj -> D:\工程\C++工程\Huffman_maz\Huffman_maz\Release\Unhuff_file.exe
+     1>已完成生成项目“D:\工程\C++工程\Huffman_maz\Huffman_maz\Unhuff_file\Unhuff_file.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.93
