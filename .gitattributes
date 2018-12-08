@@ -1,0 +1,3 @@
+*.tlog linguist-language=C++
+*.vcxproj linguist-language=C++
+*.obj linguist-language=C++
